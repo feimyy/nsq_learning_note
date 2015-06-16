@@ -1,0 +1,17 @@
+test-results/
+tmp/
+routes/
+bin/
+pkg/
+src/golang.org
+src/github.com/blang
+src/github.com/bmizerany
+src/github.com/BurnSushi
+src/github.com/kr
+src/github.com/mreiferson
+src/bithub.com/tools
+
+
+*.log
+*.exe
+*.o
